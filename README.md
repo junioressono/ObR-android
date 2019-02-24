@@ -1,2 +1,2 @@
 # ObR-android
-Gestion automatisée d'une instance Obédience religieuse (Obedience Religious)
+Application mobile Android pour la gestion automatisée d'une instance Obédience religieuse (Obedience Religious)
